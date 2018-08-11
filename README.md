@@ -73,8 +73,8 @@ In NIPS, 2011.
 [8] A. Coates and, A. Y. Ng: The Importance of Encoding Versus Training with Sparse Coding
 and Vector Quantization.
 
-[9] Z. Jiang, Z. Lin, and L. S. Davis: Learning a discriminative dictionary for sparse coding via
-label consistent k-svd. CVPR, 2011.
+[9] [Z. Jiang, Z. Lin, and L. S. Davis: Learning a discriminative dictionary for sparse coding via
+label consistent k-svd. CVPR, 2011.](http://users.umiacs.umd.edu/~lsd/papers/CVPR2011_LCKSVD_final.pdf)
 
 [10] J. Wright, A. Yang, A. Ganesh, S. Sastry, and Y. Ma: Robust face recognition via sparse
 representation, PAMI (2009).
